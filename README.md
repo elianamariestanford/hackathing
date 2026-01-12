@@ -12,7 +12,8 @@ Neither of us had extensive experience with full-stack web development prior to 
 2. How to structure a Node.js project and manage dependencies
 3. How to run and debug a web application locally
 4. The fundamentals of client–server architecture
-5. How to responsibly integrate AI tools into development without losing  understanding
+5. Basic CSS and HTML Syntax
+6. How to responsibly integrate AI tools into development without losing  understanding
 
 **What Didn’t Work / Challenges**
 1. Version compatibility issues between dependencies
