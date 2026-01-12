@@ -25,3 +25,6 @@ Neither of us had extensive experience with full-stack web development prior to 
     https://medium.com/@clerickbarrion/connecting-the-frontend-and-the-backend-22aba73b4ad5
     Queue Strategy Concepts
     https://medium.com/@duttarishav2510/lets-design-a-highly-scalable-backend-system-with-queue-strategy-d8cc3f4cf8b6
+    CSS and HTML Help
+    https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics
+    
